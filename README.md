@@ -1,5 +1,6 @@
 
-![image](https://github.com/saim1011/saim1011/assets/116882904/666df5ca-a9dd-4f49-8e54-c6d16a039009)
+![Alt text](https://github.com/saim1011/saim1011/raw/main/assets/116882904/666df5ca-a9dd-4f49-8e54-c6d16a039009.jpg)
+
 
 <h1 align="center">Hi 👋, I'm saim1011</h1>
 <h3 align="center">A passionate hacker!</h3>
